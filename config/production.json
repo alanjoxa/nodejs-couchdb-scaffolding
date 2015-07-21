@@ -1,0 +1,11 @@
+{
+  "secrets": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uris": [""],
+    "domain": ""
+  },
+  "db": "",
+  "admin" : [""],
+  "port" : 4000
+}
